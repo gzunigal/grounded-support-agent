@@ -2,7 +2,6 @@
 name = "grounded-support-agent"
 version = "0.1.0"
 description = "Support agent that answers with citations or abstains"
-readme = "README.md"
 authors = [
     { name = "Gerardo Zuniga", email = "monodeth@gmail.com" }
 ]
